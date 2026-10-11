@@ -1,0 +1,10 @@
+name = input("Enter your name: ")
+college = input("Enter your college: ")
+goal = input("Enter your dream job: ")
+
+print("\n===== MY PLACEMENT JOURNEY =====")
+print("Name:", name)
+print("College:", college)
+print("Dream Job:", goal)
+print("Target: June 2027")
+print("================================")
